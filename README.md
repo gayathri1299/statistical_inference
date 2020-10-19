@@ -1,1 +1,1 @@
-# statistical_interference
+# statistical_inference
